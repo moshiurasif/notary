@@ -191,8 +191,11 @@ header{
 	right: 0%;
 
 }
+.menu ul li a.current{
+	color: #BD233F;
+}
 
-.menu ul li a:hover,.menu ul li a.current{
+.menu ul li a:hover{
 	color: #BD233F;
 }
 /* menu bar end */
