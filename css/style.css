@@ -185,14 +185,14 @@ header{
 	right: 50%;
 	transition: 0.5s ease;
 }
-.menu ul li a:hover::before{
+.menu ul li a:hover::before,.current{
 	width:100%;
 	left: 0%;
 	right: 0%;
 
 }
 
-.menu ul li a:hover{
+.menu ul li a:hover,.current{
 	color: #BD233F;
 }
 /* menu bar end */
