@@ -1,0 +1,50 @@
+@media screen and (min-width: 1199px){
+
+}
+@media screen and (min-width: 991px) and (max-width:1199px){
+.social-links ul li:last-child a {
+    margin-right: 50px;
+}
+.menu{
+	margin-top: 10px;
+}
+.menu ul li a{
+	font-size: 14px;
+	padding: 0 9px;
+}
+
+
+.banner-content h1{
+	font-size: 40px;
+}
+
+.email{
+	padding: 10px 2px;
+}
+}
+@media screen and (min-width: 767px) and (max-width:991px){
+.menu{
+	margin-top: 10px;
+}	
+	.menu ul li a{
+	font-size: 14px;
+	padding: 0 6px;
+}
+
+.email{
+	padding: 10px 1px;
+}
+
+}
+@media screen and (min-width: 575px) and (max-width: 767px){
+
+}
+@media screen and (min-width: 320px) and (max-width: 575px){
+
+.submit{
+	padding:10px 15px;
+}
+.email{
+	padding: 10px 0;
+}
+}
